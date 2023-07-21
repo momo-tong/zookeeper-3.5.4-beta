@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.9
+Created-By: 1.8.0_172-b11 (Oracle Corporation)
+Built-By: phunt
+Built-At: 05/11/2018 16:53 GMT
+Built-On: dhcp-10-16-2-162.pa.cloudera.com
+Implementation-Title: org.apache.zookeeper
+Implementation-Version: 3.5.4-beta-7f51e5b68cf2f80176ff944a9ebd2abbc65
+ e7327
+Implementation-Vendor: The Apache Software Foundation
+
